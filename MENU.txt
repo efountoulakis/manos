@@ -1,0 +1,15 @@
+Menu
+    Home                [index.jemdoc.txt.html]
+    Publications         [publication.txt.html]
+    Courses				[courses.txt.html]
+    Activities			[activities.txt.html]
+	
+Usefull links
+
+  My Google scholar		[https://scholar.google.gr/citations?user=Q7iChoAAAAAJ&hl=en/]
+
+   My Linkedin   		[https://www.linkedin.com/in/emmanouil-manos-fountoulakis-49535034/]
+
+Other [otherlinks.txt.html]
+
+   

@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU.txt}{activities.txt.html}  
+== Research Activities
+
+== Reviewer of scientific journals
+
+. IEEE Transactions on Wireless Communications
+. IEEE Transactions on Communications
+. IEEE Journal of Internet of Things
+. IEEE Wireless Communications Letters
+. IEEE Wireless Networking Letters
+. IEEE Communications Letters
+
+== Reviewer of scientific conferences
+
+. IEEE International Conference on Communications (ICC)
+. IEEE Global Communications Conference (GLOBECOM)
+. IEEE International Conference on Computer Communications (INFOCOM)
+. IEEE Wireless Communications and Networking Conference (WCNC)

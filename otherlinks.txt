@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU.txt}{otherlinks.txt.html}  
+== Useful links - resources 
+
+. [https://www.youtube.com/watch?v=fbmAsxbLal0&t=2058s Reinforcement Learning], by Prof. Tsitsiklis \n
+. [https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ Introduction to Reinforcement Learning], by David Silver\n
+. [https://vimeo.com/21022359 Cross-Layer Optimization for Wireless Networks with Multi Receiver Diversity], by Prof. Neely\n
+. [https://www.youtube.com/watch?v=-eT0MqDOqL4&feature=emb_logo Optimal Control of Wireless Networks: from theory to practice], by Prof. Modiano
+
+
+

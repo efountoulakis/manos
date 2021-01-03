@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU.txt}{courses.txt}
+== Selected course work
+
+
+At TUC: Analysis and Synthesis of Telecommunication Modules, Information Theory and Coding, Statistical Signal Processing for Telecommunications, Wireless Communications.
+
+At LiU:  Algorithms and Complexity, Applied Discrete-Time Queues, Convex Optimization, Linear Programming, Multiuser MIMO and Spatial Resource Allocation, Optimization for Learning, Statistical Learning, Stochastic Network Optimization with Application to Communication and Queueing Systems.
