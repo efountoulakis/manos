@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU.txt}{activities.txt.html}  
+# jemdoc: menu{MENU.txt}{activities.html}  
 == Research Activities
 
 == Reviewer of scientific journals

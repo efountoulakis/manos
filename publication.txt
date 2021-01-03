@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU.txt}{publication.txt.html}  
+# jemdoc: menu{MENU.txt}{publication.html}  
 == Emmanouil Fountoulakis
 
 

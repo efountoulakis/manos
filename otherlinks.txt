@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU.txt}{otherlinks.txt.html}  
+# jemdoc: menu{MENU.txt}{otherlinks.html}  
 == Useful links - resources 
 
 . [https://www.youtube.com/watch?v=fbmAsxbLal0&t=2058s Reinforcement Learning], by Prof. Tsitsiklis \n

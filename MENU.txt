@@ -1,8 +1,8 @@
 Menu
-    Home                [index.jemdoc.txt.html]
-    Publications         [publication.txt.html]
-    Courses				[courses.txt.html]
-    Activities			[activities.txt.html]
+    Home                [index.html]
+    Publications         [publication.html]
+    Courses				[courses.html]
+    Activities			[activities.html]
 	
 Usefull links
 
