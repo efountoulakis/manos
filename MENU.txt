@@ -4,7 +4,7 @@ Menu
     Courses				[courses.html]
     Activities			[activities.html]
 	
-Usefull links
+Useful links
 
   My Google scholar		[https://scholar.google.gr/citations?user=Q7iChoAAAAAJ&hl=en/]
 

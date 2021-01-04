@@ -15,4 +15,4 @@
 . IEEE International Conference on Communications (ICC)
 . IEEE Global Communications Conference (GLOBECOM)
 . IEEE International Conference on Computer Communications (INFOCOM)
-. IEEE Wireless Communications and Networking Conference (WCNC)
+. IEEE Wireless Communications and Networking Conference (WCNC))
