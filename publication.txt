@@ -5,7 +5,7 @@
 == Journals
 . *E. Fountoulakis*, N. Pappas, and A. Ephremides, [https://arxiv.org/pdf/2011.04448.pdf Dynamic Power Control for Time-Critical Networking with Heterogeneous Traffic] *(Invited)*, /ITU Journal on Future and Evolving Technologies/, to appear 2021.
 . *E. Fountoulakis*, G. S. Paschos, N. Pappas, [https://arxiv.org/pdf/2002.03349.pdf UAV Trajectory Optimization for Time Constrained Applications], /IEEE Networking Letters/, July 2020.
-. *E. Fountoulakis*, Q. Liao, N. Pappas, [https://ieeexplore.ieee.org/abstract/document/8959130 An End-to-End Performance Analysis for Service Chaining in a Virtualized Network], /IEEE Journal of the Communications Society/, January 2020.
+. *E. Fountoulakis*, Q. Liao, N. Pappas, [https://ieeexplore.ieee.org/abstract/document/8959130 An End-to-End Performance Analysis for Service Chaining in a Virtualized Network], /IEEE Open Journal of the Communications Society/, January 2020.
 
 
 == Conferences
