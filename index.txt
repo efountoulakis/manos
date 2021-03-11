@@ -18,6 +18,6 @@ My research interests include:
 - Age of Information 
 - Low-latency Communications
 - Energy-efficient Resource Allocation
-- Applying Queueing Theory
+- Queueing Theory
 - Stochastic Control
 - Optimization
