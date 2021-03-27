@@ -2,7 +2,7 @@
 ==Emmanouil Fountoulakis 
 
 ~~~
-{}{img_left}{photo5.jpg}{alt text}{200}{270}
+{}{img_left}{emmfo73.jpg}{alt text}{310}{200}
 Ph.D. Student,\n[https://liu.se/ Linköping University (LiU)],
 \n[https://liu.se/en/organisation/liu/itn Department of Science and Technology],\n
 [https://liu.se/en/research/optimisation-of-wireless-networks Mobile Telecommunications (MT) Group],\n
