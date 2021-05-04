@@ -11,6 +11,7 @@ Minimizing Cost under AoI Constraints], under review.
 
 
 == Conferences
+. *E. Fountoulakis*, N. Pappas, A. Ephremides, Power-Efficient Scheduling for Time-Critical Networking with Heterogeneous Traffic, /IEEE INFOCOM Workshops/, May 2021.
 . *E. Fountoulakis*, T. Charalambous, N. Nomikos, A. Ephremides, N. Pappas, [https://arxiv.org/abs/2006.01515 Information Freshness and Packet Drop Rate Interplay in a Two-User Multi-Access Channel], /IEEE Information Theory Workshop (ITW)/, accepted.
 . *E. Fountoulakis*, N. Pappas, M. Codreanu, A. Ephremides, [https://arxiv.org/pdf/2003.02512.pdf Optimal Sampling Cost in Wireless Networks with Age of Information Constraints], /IEEE Conference on Computer Communications (INFOCOM), AoI workshop/, virtual conference, July 2020.
 . *E. Fountoulakis*, Q. Liao, M. Stein, N. Pappas, [https://arxiv.org/pdf/1811.02330.pdf Traversing virtual network functions from the edge to the core: An end-to-end performance analysis], /International Symposium on Wireless Communication Systems (ISWCS)/, Oulu, Finland August 2019.
