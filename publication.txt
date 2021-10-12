@@ -3,6 +3,8 @@
 
 
 == Journals
+. *E. Fountoulakis*, T. Charalambous, A. Ephremides, N. Pappas, [https://arxiv.org/pdf/2109.04784.pdf ``A Dynamic Scheduling Policy for a Network with Heterogeneous Time-Sensitive Traffic]", under review. 
+. *E. Fountoulakis*, T. Charalambous, N. Nomikos, A. Ephremides, N. Pappas, ``Information Freshness and Packet Drop Rate Interplay in a Two-User Multi-Access Channel", under review.
 . *E. Fountoulakis*, M. Codreanu, A. Ephremides, N. Pappas, [https://arxiv.org/pdf/2103.15450.pdf ``Joint Sampling and Transmission Policies for
 Minimizing Cost under AoI Constraints"], under review.
 . *E. Fountoulakis*, N. Pappas, and A. Ephremides, [https://www.itu.int/en/publications/gs/pages/publications.aspx?parent=S-ITUJNL-JFETS.V2I1-1-2021&media=electronic ``Dynamic Power Control for Time-Critical Networking with Heterogeneous Traffic"] *(Invited)*, /ITU Journal on Future and Evolving Technologies/, March 2021.
