@@ -1,14 +1,15 @@
 Menu
-    Home                [index.html]
-    Publications         [publication.html]
-    Courses				[courses.html]
-    Activities			[activities.html]
+    Home             [index.html]
+    About me 	    [about.html]
+    Publications     [publication.html]
+    Courses	    [courses.html]
+    Activities	    [activities.html]
 	
 Useful links
 
-  My Google scholar		[https://scholar.google.gr/citations?user=Q7iChoAAAAAJ&hl=en/]
+Google Scholar [https://scholar.google.gr/citations?user=Q7iChoAAAAAJ&hl=en/]
 
-   My Linkedin   		[https://www.linkedin.com/in/emmanouil-manos-fountoulakis-49535034/]
+My Linkedin    [https://www.linkedin.com/in/emmanouil-manos-fountoulakis-49535034/]
 
 Other [otherlinks.html]
 

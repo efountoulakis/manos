@@ -1,23 +1,28 @@
 # jemdoc: menu{MENU.txt}{index.html}  
-==Emmanouil Fountoulakis 
+==Emmanouil Fountoulakis \n
+Communication Systems Department, EURECOM
 
 ~~~
 {}{img_left}{emmfo73.jpg}{alt text}{310}{200}
-Ph.D. Student,\n[https://liu.se/ Linköping University (LiU)],
-\n[https://liu.se/en/organisation/liu/itn Department of Science and Technology],\n
-[https://liu.se/en/research/optimisation-of-wireless-networks Mobile Telecommunications (MT) Group],\n
-Norrköping, Sweden, \n 
-E-post: /emmanouil.fountoulakis/ \[@\] liu \[DOT\] se
+Postdoctoral Researcher, Ph.D.
+\n [https://www.eurecom.fr/en/research/communications-system-department Communication Systems Department]
+\n [https://https://www.eurecom.fr/ EURECOM], Sophia Antipolis, France\n
+E-post: /emmanouil.fountoulakis/ \[@\] eurecom \[DOT\] fr
 ~~~
 
-== About me
-Hello! I am Emmanouil, but actually everybody calls me "Manos". I was born in 1991 in Heraklion, a city of the beautiful island of [https://www.cretanbeaches.com/en/ Crete], Greece. I received a M.Eng. from the school of electrical and computer engineering at the [https://www.ece.tuc.gr/index.php?id=4481 Technical University of Crete (TUC)], in July 2016. In August 2016, I joined the MT group at the [https://liu.se/en Linköping University (LiU)] as Marie Curie Ph.D. fellow, where I am currently pursuing a Ph.D. degree in wireless networks under the supervision of Prof. [https://pappas-nikolaos.github.io/ Nikolaos Pappas]. I spent 1,5 years in Nokia, Bell-Labs, Stuttgart, as an early stage researcher.
 
 == Research
 My research interests include: 
+- Semantics Wireless Communications
 - Age of Information 
 - Low-latency Communications
-- Energy-efficient Resource Allocation
 - Queueing Theory
 - Stochastic Control
 - Optimization
+
+~~~
+== News
+- 12/2021: Started as a Postdoctoral Researcher working with Prof. [https://www.eurecom.fr/~kountour/ Marios Kountouris].
+- 11/2021: Our work [https://ieeexplore.ieee.org/document/9163054 ``Optimal Sampling Cost in Wireless Networks with Age of Information Constraints"] has been selected in the top-five nominations for the Best Student Conference Paper Award in Swe-CTW 2021.
+- 10/2021: I successfully defended my Ph.D. thesis entitled ``Performance and Optimization Aspects of Time Critical Networking". Special thanks to my supervisor Prof. Nikolaos Pappas, the opponent, Prof. Ness Shroff, and the committee members, Prof. Roy Yates, Prof. Sennur Ulukus, Prof. Giuessepe Durisi.
+~~~

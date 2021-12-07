@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU.txt}{about.html}  
+== Emmanouil Fountoulakis - About me \n
+Communication Systems Department, EURECOM
+
+== Research Experience
+- 12\/2021--present: Postdoctoral Researcher at the Communication Systems Department, EURECOM, France
+- 08\/2016--10\/2021: Research Assistant, Department of Science and Technology, Linköping University, Sweden
+- 10\/2017--03\/2019: Early Stage Researcher (ESR), Nokia Bell-Labs, Stuttgart, Germany
+- 07\/2017--09\/2017: Visiting Scholar, University of Maryland, USA
+
+== Education
+- 2021: Ph.D. in Wireless Networks, Department of Science and Technology, Linköping University, Sweden \n
+Thesis title: ``Performance and Optimization Aspects of Time Critical Networking", supervisor: [https://pappas-nikolaos.github.io/index.html Prof. Nikolaos Pappas]
+- 2016: M.Eng. in Electronic and Computer Engineering, Technical University of Crete, Greece \n
+Thesis title: ``Subspace Tracking for Nested Arrays", supervisor: [https://www.telecom.tuc.gr/~karystinos/ Prof George N. Karystinos]
